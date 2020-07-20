@@ -1,4 +1,19 @@
-### Hi there 👋
+Olá, pessoas,
+
+  Vocês já pensaram do porque os jogos serem tão divertidos e interessantes? Bom eu sou apaixonado por eles, os jogos são incríveis e bem curiosos por sinal, e por conta desses motivos eu estou ainda continuo caminhando no desenvolvimento de jogos...
+
+  Jogar jogos é bem diferente de desenvolver, e acho bem legal que seja assim, pois explorar esse outro lado está sendo uma experiência incrível e marcante, algo que está quebrando minhas expectativas todos os dias. Estudar, praticar e participar do desenvolvimento é algo único, espero que mais pessoas possam experimentar esse universo, pois há muito a se explorar haha.
+
+  A criatividade não tem limites e isso pode-se ver muito bem ao pensar na ideia de um jogo, pois é possível fazer qualquer coisa. Pensar em como deixar divertido e legal não é fácil, mas isso é o que deixa o jogo melhor e bacana para ser jogado pelos jogadores.
+
+  Sou desenvolvedor de jogos indies e gostaria de compartilhar alguns fatos sobre mim:
+
+- 🔭 Atualmente estou desenvolvendo na Game Engine Unity 3D.
+- 🌱 Eu estou aprendendo mais sobre IA voltada para jogos.
+- 🍀 Estou participando frequentemente de game jams.
+- 🔔 Pretendo conhecer mais sobre a game engine Pico8. 
+- 🚩 Meu sonho envolve tudo o que estou estudando, talvez um dia eu consiga compartilhar...
+
 
 <!--
 **fiwon123/fiwon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
