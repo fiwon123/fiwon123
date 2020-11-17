@@ -1,6 +1,6 @@
 Olá, pessoas,
 
-  Vocês já pensaram do porque os jogos serem tão divertidos e interessantes? Bom eu sou apaixonado por eles, os jogos são incríveis e bem curiosos por sinal, e por conta desses motivos eu estou ainda continuo caminhando no desenvolvimento de jogos...
+  Vocês já pensaram do porque os jogos serem tão divertidos e interessantes? Bom eu sou apaixonado por eles, os jogos são incríveis e bem curiosos por sinal, e por conta desses motivos eu ainda continuo caminhando no desenvolvimento de jogos...
 
   Jogar jogos é bem diferente de desenvolver, e acho bem legal que seja assim, pois explorar esse outro lado está sendo uma experiência incrível e marcante, algo que está quebrando minhas expectativas todos os dias. Estudar, praticar e participar do desenvolvimento é algo único, espero que mais pessoas possam experimentar esse universo, pois há muito a se explorar haha.
 
