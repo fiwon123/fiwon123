@@ -11,7 +11,7 @@ Olá, pessoas,
 - 🔭 Atualmente estou desenvolvendo na Game Engine Unity 3D.
 - 🌱 Eu estou aprendendo mais sobre IA voltada para jogos.
 - 🍀 Estou participando frequentemente de game jams.
-- 🔔 Pretendo conhecer mais sobre a game engine Pico8. 
+- 🔔 Pretendo conhecer mais sobre a game engine Pico8 e Unreal.
 - 🚩 Meu sonho envolve tudo o que estou estudando, talvez um dia eu consiga compartilhar...
 
 
