@@ -11,7 +11,7 @@ Hello people,
 I am an indie game developer and would like to share some facts about myself:
 
 - 🔭 I'm currently developing on Game Engine Unity 3D.
-- 🌱 I'm learning more about Rendering Engineer.
+- 🌱 I'm learning more about Rendering Engineer and Architecture/Organization to game development.
 - 🍀 I'm often participating in game jams.
 - 🔔 I intend to know more about how to create a story with a good gameplay.
 - 🚩 My dream involves everything I'm studying, maybe one day I'll be able to share...
@@ -29,7 +29,7 @@ Olá, pessoas,
   Sou desenvolvedor de jogos indies e gostaria de compartilhar alguns fatos sobre mim:
 
 - 🔭 Atualmente estou desenvolvendo na Game Engine Unity 3D.
-- 🌱 Eu estou aprendendo mais sobre Rendering Engineer.
+- 🌱 Eu estou aprendendo mais sobre Rendering Engineer e Arquitetura/Organização no desenvolvimento de jogos.
 - 🍀 Estou participando frequentemente de game jams.
 - 🔔 Pretendo conhecer mais sobre como criar uam história com um bom gameplay.
 - 🚩 Meu sonho envolve tudo o que estou estudando, talvez um dia eu consiga compartilhar...
