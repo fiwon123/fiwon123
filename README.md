@@ -31,7 +31,7 @@ Olá, pessoas,
 - 🔭 Atualmente estou desenvolvendo na Game Engine Unity 3D.
 - 🌱 Eu estou aprendendo mais sobre Rendering Engineer e Arquitetura/Organização no desenvolvimento de jogos.
 - 🍀 Estou participando frequentemente de game jams.
-- 🔔 Pretendo conhecer mais sobre como criar uam história com um bom gameplay.
+- 🔔 Pretendo conhecer mais sobre como criar uma história com um bom gameplay.
 - 🚩 Meu sonho envolve tudo o que estou estudando, talvez um dia eu consiga compartilhar...
 
 
