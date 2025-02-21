@@ -1,3 +1,8 @@
+NEW Jul/2024 - ...
+
+- Eletronic Music Production who knows?
+
+OLD - Jul/2019 - Ago/2024 
 [ENG]
 
 Hello people,
