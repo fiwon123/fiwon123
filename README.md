@@ -1,6 +1,6 @@
 NEW - Sep/2024 - ...
 
-- Eletronic Music Production who knows?
+- Electronic Music Production who knows?
   
 ======================================================================
 
