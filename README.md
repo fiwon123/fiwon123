@@ -16,7 +16,7 @@ Learning more about developer tools.
 
 
 ### Last Journey
-A lot of experiences where I worked with games, created my own games and learnt everything about game development.
+A lot of experiences where I worked as game developer, created my own games and learnt everything about game development.
 
 * Date:  07/2019 to 08/2024 
 * Games: https://fiwon123.itch.io/
