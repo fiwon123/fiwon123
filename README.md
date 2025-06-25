@@ -20,7 +20,7 @@ A lot of experiences in a short time, working, creating my own games and learnin
 
 * Date:  07/2019 to 08/2024 
 * Role: Game Developer
-* Personal Projects: https://fiwon123.itch.io/
+* Personal Games: https://fiwon123.itch.io/
 
 
 ### Contacts
