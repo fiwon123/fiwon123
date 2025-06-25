@@ -16,7 +16,7 @@ I'm learning more about tooling development focused on developer experience.
 
 
 ### Last Journey
-A lot of experiences where I've developed/ported games professionally, created my own games in game jams and learned more than I expected initially.
+A lot of experiences where I've developed/ported games professionally, created my own games on game jams and completed my main personal/professional objectives.
 
 * Date:  07/2019 to 08/2024 
 * Games: https://fiwon123.itch.io/
