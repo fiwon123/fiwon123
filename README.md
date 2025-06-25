@@ -10,13 +10,13 @@ me = {
 ```
 
 ### Current
-Learning more about tools focus on developers. 
+Learning more about developer tools.
 
 * Date: 09/2024 to _______
 
 
 ### Last Journey
-A lot of experiences in a short time, working, creating my own games and learning everything about game development.
+A lot of experiences where I worked with games, created my own games and learnt everything about game development.
 
 * Date:  07/2019 to 08/2024 
 * Games: https://fiwon123.itch.io/
