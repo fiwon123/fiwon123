@@ -19,7 +19,6 @@ Learning more about tools focus on developers.
 A lot of experiences in a short time, working, creating my own games and learning everything about game development.
 
 * Date:  07/2019 to 08/2024 
-* Role: Game Developer
 * Personal Games: https://fiwon123.itch.io/
 
 
