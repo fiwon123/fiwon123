@@ -10,7 +10,7 @@ me = {
 ```
 
 ### Current
-I'm learning more about tooling development focused on developer experience.
+I'm learning about tooling development focused on developer experience.
 
 * Date: 09/2024 to _______
 
