@@ -5,7 +5,7 @@
 ```python
 print("Oi! Bem vindo ao meu perfil.")
 
-me = {
+eu = {
     "nome": "Felipe",
     "pronomes": "ele/dele",
 }
