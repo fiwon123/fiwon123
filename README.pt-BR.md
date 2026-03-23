@@ -3,16 +3,16 @@
 ### Sobre mim
 
 ```python
-print("Oi! Bem vindo ao meu profile.")
+print("Oi! Bem vindo ao meu perfil.")
 
 me = {
     "nome": "Felipe",
-    "pronome": "ele/dele",
+    "pronomes": "ele/dele",
 }
 ```
 
 ### Atualmente
-Estou aprendendo mais sobre desenvolvimento de ferramentas, focadas na produtividades dos desenvolvedores.
+Estou aprendendo mais sobre desenvolvimento de ferramentas, focadas na produtividade dos desenvolvedores.
 
 * Data: 09/2024 até _______
 
