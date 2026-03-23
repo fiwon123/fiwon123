@@ -1,4 +1,4 @@
-[English](README.md) • [Português (pt-BR)](#pt-br)
+[English](README.md) • [Português (pt-BR)](README.pt-BR.md)
 
 ### About me
 
