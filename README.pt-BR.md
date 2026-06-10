@@ -21,7 +21,8 @@ Estou aprendendo mais sobre desenvolvimento de ferramentas, focadas na produtivi
 Muitas experiências onde desenvolvi/portei jogos profissionalmente, criei meus próprios jogos nas game jams e completei meus objetivos pessoais/profissionais como desenvolvedor de jogos.
 
 * Data:  07/2019 até 08/2024 
-* Jogos: https://fiwon123.itch.io/
+* Meus Jogos: https://fiwon123.itch.io/
+* Game Jams respositórios: https://github.com/GameJams-fiwon123
 
 
 ### Contatos
