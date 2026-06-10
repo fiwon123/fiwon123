@@ -21,7 +21,8 @@ I'm learning about tooling development focused on developer productivity.
 A lot of experiences where I've developed/ported games professionally, created my own games on game jams and completed my main personal/professional objectives as game developer.
 
 * Date:  07/2019 to 08/2024 
-* Games: https://fiwon123.itch.io/
+* My Games: https://fiwon123.itch.io/
+* Game Jams repositories: https://github.com/GameJams-fiwon123
 
 
 ### Contacts
