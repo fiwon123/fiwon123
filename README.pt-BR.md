@@ -1,29 +1,39 @@
-[English](README.md) • [Português (pt-BR)](#pt-br)
+[English](README.md) • [Português (pt-BR)](README.pt-BR.md)
+
+# Felipe Inoue
+
+**Desenvolvedor de software — backend, automação e ferramentas para desenvolvedores.**
+Mais em [felipeinoue.com](https://felipeinoue.com/).
+
+[![Portfólio](https://img.shields.io/badge/felipeinoue.com-portf%C3%B3lio-1f6feb?style=for-the-badge)](https://felipeinoue.com/)
 
 ### Sobre mim
 
 ```python
-print("Oi! Bem vindo ao meu perfil.")
+print("Oi! Bem-vindo ao meu perfil.")
 
 eu = {
     "nome": "Felipe",
     "pronomes": "ele/dele",
+    "foco": "backend · automação · ferramentas para desenvolvedores",
 }
 ```
 
-### Atualmente
-Estou aprendendo mais sobre desenvolvimento de ferramentas, focadas na produtividade dos desenvolvedores.
+Eu transformo processos complexos ou repetitivos em sistemas simples e
+fáceis de manter. Antes disso desenvolvi e portei jogos profissionalmente
+por 5+ anos — [meus jogos](https://fiwon123.itch.io/) e
+[game jams](https://itch.io/c/1112919/my-game-jams).
 
-* Data: 09/2024 até _______
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
+[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![React](https://img.shields.io/badge/React-61dafb?logo=react&logoColor=white)](https://react.dev/)
 
+### Contato
 
-### Última jornada
-Muitas experiências onde desenvolvi/portei jogos profissionalmente, criei meus próprios jogos nas game jams e completei meus objetivos pessoais/profissionais como desenvolvedor de jogos.
-
-* Data:  07/2019 até 08/2024 
-* Meus Jogos: https://fiwon123.itch.io/
-* Game Jams respositórios: https://github.com/GameJams-fiwon123
-
-
-### Contatos
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoSize=auto&logoColor=white)](https://www.linkedin.com/in/felipeinoue/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fiwon123)
+[![Portfólio](https://img.shields.io/badge/felipeinoue.com-1f6feb?style=for-the-badge&logoColor=white)](https://felipeinoue.com/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeinoue/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fiwon123)
+[![itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white)](https://fiwon123.itch.io/)
