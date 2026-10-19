@@ -5,8 +5,6 @@
 **Software developer — backend, automation, and developer tooling.**
 More on [felipeinoue.com](https://felipeinoue.com/).
 
-[![Portfolio](https://img.shields.io/badge/felipeinoue.com-portfolio-1f6feb?style=for-the-badge)](https://felipeinoue.com/)
-
 ### About me
 
 ```python
@@ -32,7 +30,7 @@ Before that I developed and ported games professionally for 5+ years —
 
 ### Contact
 
-[![Portfolio](https://img.shields.io/badge/felipeinoue.com-1f6feb?style=for-the-badge&logoColor=white)](https://felipeinoue.com/)
+[![felipeinoue.com Portfolio](https://img.shields.io/badge/felipeinoue.com-Portfolio-1f6feb?style=for-the-badge&logoColor=white)](https://felipeinoue.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeinoue/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fiwon123)
 [![itch.io](https://img.shields.io/badge/itch.io-%23FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white)](https://fiwon123.itch.io/)
