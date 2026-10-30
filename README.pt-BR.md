@@ -15,7 +15,7 @@ eu = {
 
 ### Habilidades
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=go,rust,ts,py,cs,postgres,react,unity)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=go,py,rust,cs,fastapi,postgres,redis,docker,nginx,prometheus,linux,git,githubactions,unity)](https://skillicons.dev)
 
 ### Contato
 
