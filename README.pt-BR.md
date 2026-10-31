@@ -31,8 +31,8 @@
 ### Contato
 
 <p>
-  <a href="https://felipeinoue.com/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1f6feb?style=flat-square&logo=readme&logoColor=white" alt="Portfólio" /></a>
-  <a href="https://www.linkedin.com/in/felipeinoue/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/fiwon123"><img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://fiwon123.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
+  <a href="https://felipeinoue.com/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1f6feb?style=for-the-badge&logo=readme&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/felipeinoue/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/fiwon123"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://fiwon123.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>
 </p>
