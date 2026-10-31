@@ -2,16 +2,12 @@
 
 ## Sobre mim
 
-```python
-print("Oi! Bem-vindo ao meu perfil.")
+**Oi! Bem-vindo ao meu perfil.**
 
-eu = {
-    "nome": "Felipe Inoue",
-    "pronomes": "ele/dele",
-    "foco": "desenvolvimento backend · ferramentas para desenvolvedores · automação com IA",
-    "historico": "Antes disso, desenvolvi e portei jogos profissionalmente por 5+ anos.",
-}
-```
+- **Nome:** Felipe Inoue
+- **Pronomes:** ele/dele
+- **Foco:** desenvolvimento backend · ferramentas para desenvolvedores · automação com IA
+- **Histórico:** Antes disso, desenvolvi e portei jogos profissionalmente por 5+ anos.
 
 ### Habilidades
 

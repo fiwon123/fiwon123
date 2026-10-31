@@ -2,16 +2,12 @@
 
 ## About me
 
-```python
-print("Hi! Welcome to my profile.")
+**Hi! Welcome to my profile.**
 
-me = {
-    "name": "Felipe Inoue",
-    "pronouns": "he/him",
-    "focus": "backend development · developer tooling · AI-powered automation",
-    "background": "Before that, I developed and ported games professionally for 5+ years.",
-}
-```
+- **Name:** Felipe Inoue
+- **Pronouns:** he/him
+- **Focus:** backend development · developer tooling · AI-powered automation
+- **Background:** Before that, I developed and ported games professionally for 5+ years.
 
 ### Skills
 
